@@ -1,6 +1,6 @@
 # DigitalOcean Security
 
-If you have found a security vulnerability in a DigitalOcean product, please submit it via our HackerOne bug bounty program: <https://hackerone.com/digitalocean>.
+If you have found a security vulnerability in a DigitalOcean product, please submit it via our Intigriti bug bounty program: <https://app.intigriti.com/programs/digitalocean/digitalocean>.
 
 If you are a partner attempting to report a security concern via embargo, email us at [security@digitalocean.com](mailto:security@digitalocean.com).
 
